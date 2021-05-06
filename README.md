@@ -20,3 +20,5 @@ This task was to test implementation progress. Follow the link below to check ou
 Implementation of complete solution to the Theme’s problem statement and submitting the video and well documented code.
 
 we used Atmel studio 6 for coding Atmega2560 micro controller 
+<br> link:https://blogteamfalconoids.wordpress.com/2020/02/28/unleashing-eyantra/ 
+<br> certificate:http://certificate.e-yantra.org/validate/8c8ed7a92754418d165dd5513f1e299241c9c2be
